@@ -20,3 +20,5 @@
 3. Text Color Mod
 * Original de BananaGaming: https://bananagaming.tv/pages/text-color-mod-v3
 * Video: https://www.youtube.com/watch?v=22UGG7lXlQ8&t=10s
+
+4. Parametros:  -novid -console -tickrate 128 -language bananagaming +exec slinger.cfg -high -nod3d9ex
