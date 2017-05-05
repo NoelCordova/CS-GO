@@ -2,7 +2,7 @@
 
 1. slinger.cfg
 
-<p> El archivo de este repositorio es mi versión, la he ido modificando para mi uso, la versión original pertenece a BananaGaming.</p>
+<p> El archivo de este repositorio es la versión que yo he ido modificando a mi gusto y para mi uso, la versión original pertenece a BananaGaming.</p>
 <p> Video original: https://www.youtube.com/watch?v=uP61kaMHiE0&t=257s</p>
 
 * Agregar el archivo a la ruta: C:\Program Files (x86)\Steam\userdata\id perfil\730\local\cfg
